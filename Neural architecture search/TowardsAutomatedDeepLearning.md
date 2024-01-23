@@ -7,4 +7,5 @@
 ⇒ 즉, 뒤에 있는 600 epoch의 훈련 시간이 의미가 없을 수 있음
 3. 그래서 우리는 NAS를 categorical hyperparameter로 변환하고 이를 HP search space에 추가해 HPO 문제를 푸는 으로 casting하였고, BOHB를 이용해 이를 더욱 효과적으로 탐색을 했다.
 
+[Notion review](https://www.notion.so/Frank-Hutter-lab-paper-following-Towards-Automated-Deep-Learning-Efficient-Joint-Neural-Archit-c1db79241b2b410d9a84190b6466ab5a?pvs=4)
 #### 논문 소속: Frank Hutter [[Link]](https://ml.informatik.uni-freiburg.de/team/)
