@@ -26,5 +26,5 @@
 
 #### Neural architecture search
 
-* (240122)[FBNetV3: Joint Architecture-Recipe Search using Predictor Pretraining](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_FBNetV3_Joint_Architecture-Recipe_Search_Using_Predictor_Pretraining_CVPR_2021_paper.pdf) CVPR'21 [[Video]](https://www.youtube.com/watch?v=ieWHehfXZUU)  [[review]]()
+* (240122)[FBNetV3: Joint Architecture-Recipe Search using Predictor Pretraining](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_FBNetV3_Joint_Architecture-Recipe_Search_Using_Predictor_Pretraining_CVPR_2021_paper.pdf) CVPR'21 [[Video]](https://www.youtube.com/watch?v=ieWHehfXZUU)  [[PDF]](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_FBNetV3_Joint_Architecture-Recipe_Search_Using_Predictor_Pretraining_CVPR_2021_paper.pdf)
 
