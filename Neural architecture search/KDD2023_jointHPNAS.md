@@ -1,5 +1,5 @@
 ### 240124
-#### KDD'23 
+#### Efficient and Joint Hyperparameter and Architecture Search for Collaborative Filtering KDD'23 
 #### 요약
 1. Automated Machine Learning(AutoML) techniques는 Collaborative Filltering (CF) model를 data specific manner로 설계하는데 현재 사용되고 있다.
 2. 하지만 기존 방법들은 architecture search를 할때 hyperparameter의 영향을 무시하고 진행한다 (fixed hyperparameter)
