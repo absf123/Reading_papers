@@ -30,7 +30,7 @@
 <a name="survey" />
 
 #### Survey
-* (240202)[Geometric deep learning for drug discovery](https://github.com/absf123/Reading_papers/blob/main/Molecular%20paper/Survey/GDL4Drug.md) ESWA'24 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423030002)
+* (240202)[Geometric deep learning for drug discovery](https://github.com/absf123/Reading_papers/blob/main/Molecular%20papers/Survey/GDL4Drug.md) ESWA'24 [[PDF]](https://www.sciencedirect.com/science/article/pii/S0957417423030002)
 
 <a name="NAS" />
 
